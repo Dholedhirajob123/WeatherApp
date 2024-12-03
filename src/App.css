@@ -1,0 +1,12 @@
+.weather-container{
+max-width: 400px;
+padding: 20px;
+margin: 20px auto;
+background-color: aqua;
+border-radius: 5px;
+text-align: center;
+}
+
+.weather-Info{
+margin: 20px;
+}
